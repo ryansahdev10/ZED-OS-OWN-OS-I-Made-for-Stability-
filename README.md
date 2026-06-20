@@ -14,4 +14,7 @@ Next UPDATES Leaks
 8. Terminal Update
 9. Settings update
 10. Auto Repair Update
+11. Clock Update
+12. Start Menu update
+13. ZED Installer Update
 **Please Leave your own Ideas In it**
